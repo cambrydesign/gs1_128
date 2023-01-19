@@ -115,3 +115,4 @@ Feel free to add or request some. Full list is [here](http://www.databar-barcode
 |415        |GLOBAL LOCATION NUMBER OF THE INVOICE PARTY |13         |13         |
 |8020       |PAYMENT SLIP REFERENCE NUMBER               |1          |25         |
 |96         |COMPANY INTERNAL INFORMATION                |1          |30         |
+|91         |COMPANY INTERNAL INFORMATION                |1          |30         |
