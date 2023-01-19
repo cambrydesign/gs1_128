@@ -61,5 +61,6 @@ class SectionBuilder
         '415' => [13, 13, 'GLOBAL LOCATION NUMBER OF THE INVOICE PARTY (415) - must contains excat 13 digits'],
         '8020' => [1, 25, 'PAYMENT SLIP REFERENCE NUMBER (8020) - must contains between 1-25 digits'],
         '96' => [1, 30, 'COMPANY INTERNAL INFORMATION (96) - must contains between 1-30 digits'],
+        '91' => [1, 30, 'COMPANY INTERNAL INFORMATION (91) - must contain between 1-30 digits'],
     ];
 }
